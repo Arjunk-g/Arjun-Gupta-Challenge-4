@@ -12,3 +12,5 @@ Description of what the application does:
 Displays a Javascript quiz that displays different questions when the answer is clicked.
 
 snapshots of my project:
+
+![Capture for challenege 4](https://user-images.githubusercontent.com/112139137/193169147-853ee67b-c9e8-4175-b24f-51cb3efb4f13.PNG)
